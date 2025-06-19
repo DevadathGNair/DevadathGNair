@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-I'm a detail-oriented data scientist with hands-on experience in building end-to-end automation workflows, crafting business intelligence dashboards, and applying data science techniques to real-world problems. I thrive at the intersection of business and technology — automating repetitive processes, generating actionable insights, and delivering value through clean, scalable solutions.
+I'm a results-driven data scientist with hands-on experience delivering **end-to-end Machine Learning solutions**, **automating complex workflows**, and creating **insightful dashboards**. I specialize in building tools that bridge business needs and technical execution whether that means developing a predictive model, automating manual processes, or turning raw data into decision-ready insights.
 
 - ✅ Automated 3+ hour-long manual workflows to complete in under 30 minutes using Python, SQL, Power Query & Access DB.
 - 🤖 Completed **multiple end-to-end ML projects** – from data collection & cleaning to model deployment.
